@@ -12,7 +12,7 @@ On Ubuntu mark a folder, right mouse button and find Open in Terminal
 3. Copy and paste a photos that you want to decrease size and run program.
 
 4. Run program: 
-   sudo python3 decreaseSize.py
+   sudo python3 newPhotoSize.py
    Type your password
 
 New photos are saved to the folder smallphotos,
