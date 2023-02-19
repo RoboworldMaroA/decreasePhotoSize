@@ -18,6 +18,7 @@ On Ubuntu mark a folder, right mouse button and find Open in Terminal
 New photos are saved to the folder smallphotos,
 Enjoy
 
+5. when you finish run command: deactivate
 
 ####### Video Converter for MAC ###############################
 If you want to convert video you need download repo first.
